@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/event-midterm-project/static/css/main.e3d3c85f.css",
+    "main.js": "/event-midterm-project/static/js/main.c23fa482.js",
+    "index.html": "/event-midterm-project/index.html",
+    "main.e3d3c85f.css.map": "/event-midterm-project/static/css/main.e3d3c85f.css.map",
+    "main.c23fa482.js.map": "/event-midterm-project/static/js/main.c23fa482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d3c85f.css",
+    "static/js/main.c23fa482.js"
+  ]
+}
